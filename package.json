@@ -1,0 +1,10 @@
+{
+  "name": "label-title-modif",
+  "version": "1.0.0",
+  "description": "Chrome/Edge extension for URL-prefix based page title mapping",
+  "main": "index.js",
+  "scripts": {
+    "pack": "powershell -NoProfile -Command \"if (Test-Path label-title-modif-extension.zip) { Remove-Item label-title-modif-extension.zip -Force }; Compress-Archive -Path extension\\* -DestinationPath label-title-modif-extension.zip\""
+  },
+  "private": true
+}

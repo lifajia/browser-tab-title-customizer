@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "标签页标题自定义"
+  },
+  "extDescription": {
+    "message": "按 URL 规则自动替换页面标题，支持前缀/后缀/包含/正则匹配与书签同步。"
+  },
+  "extActionTitle": {
+    "message": "标签页标题自定义"
+  }
+}

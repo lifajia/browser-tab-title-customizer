@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Tab Title Customizer"
+  },
+  "extDescription": {
+    "message": "Replace tab titles by URL rules with prefix, suffix, contains, regex matching and bookmark sync."
+  },
+  "extActionTitle": {
+    "message": "Tab Title Customizer"
+  }
+}
