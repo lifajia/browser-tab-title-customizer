@@ -11,9 +11,13 @@ Compatible with **Google Chrome** and **Microsoft Edge** (Chromium, Manifest V3)
 
 ---
 
-## screenshot
-![screenshot-cn.png](screenshot/screenshot-cn.png)
-![screenshot-en.png](screenshot/screenshot-en.png)
+## 截图 / Screenshot
+<table>
+  <tr>
+    <td width="50%"><img src="screenshot/screenshot-cn.png" alt="screenshot-cn" width="80%" /></td>
+    <td width="50%"><img src="screenshot/screenshot-en.png" alt="screenshot-en" width="80%" /></td>
+  </tr>
+</table>
 
 ## 中文
 
