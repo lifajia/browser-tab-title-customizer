@@ -1,4 +1,4 @@
-# 标签页标题自定义 / Tab Title Customizer
+# 浏览器标签页标题自定义 / Browser Tab Title Customizer
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)](extension/manifest.json)
 [![Chrome](https://img.shields.io/badge/Chrome-Supported-green)](https://www.google.com/chrome/)
