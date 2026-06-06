@@ -17,8 +17,8 @@ const siteDomain = document.getElementById('siteDomain');
 const githubLink = document.getElementById('githubLink');
 const readmeLink = document.getElementById('readmeLink');
 
-const GITHUB_REPO_URL = 'https://github.com/lifajia/tab-title-customizer';
-const README_URL = 'https://github.com/lifajia/tab-title-customizer#readme';
+const GITHUB_REPO_URL = 'https://github.com/lifajia/browser-tab-title-customizer';
+const README_URL = 'https://github.com/lifajia/browser-tab-title-customizer#readme';
 
 let currentTab = null;
 let existingBookmark = null;
@@ -369,6 +369,11 @@ function bindLangSwitch() {
 }
 
 function bindExternalLinks() {
+  githubLink.href = GITHUB_REPO_URL;
+  githubLink.title = GITHUB_REPO_URL;
+  readmeLink.href = README_URL;
+  readmeLink.title = README_URL;
+
   [githubLink, readmeLink].forEach((link) => {
     link.addEventListener('click', (event) => {
       event.preventDefault();
